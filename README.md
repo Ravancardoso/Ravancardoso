@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório do GitHub!
 🚀 Sobre Mim:
 
-    🎓 Estudante de Analise e desenvolvimento de sistemas.
+    🎓 Formado em Analise e desenvolvimento de sistemas.
     
     
   
