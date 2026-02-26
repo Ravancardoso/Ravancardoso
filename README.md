@@ -21,9 +21,10 @@ Bem-vindo ao meu repositório do GitHub!
 *Criação e gerenciamento de contêineres, deploy e gerenciamento de clusters.*
 
 **Infraestrutura como Código & Automação** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-*Provisionamento com IaC (Terraform) e automação de rotinas com Python e Shell Script.*
+*Provisionamento com IaC (Terraform), gerência de configuração (Ansible) e automação de rotinas com Python e Shell Script.*
 
 **Monitoramento & Logging** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
