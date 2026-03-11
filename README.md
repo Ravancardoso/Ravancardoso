@@ -3,7 +3,11 @@
 Bem-vindo ao meu repositório do GitHub! 
 
 ### 🚀 Sobre Mim
-🎓 **Formado em Análise e Desenvolvimento de Sistemas.** Atualmente focado em **DevOps e SRE**, trabalhando com automação de infraestrutura, escalabilidade e resiliência de sistemas.
+🎓 **Formado em Análise e Desenvolvimento de Sistemas - Estacio de Sá**
+
+Cursando **DevOps - Anhanguera** 
+
+Atualmente focado em **DevOps e SRE**, trabalhando com automação de infraestrutura, escalabilidade e resiliência de sistemas.
 
 ---
 
